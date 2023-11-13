@@ -116,5 +116,3 @@ The boilerplate consists of two main directories:
  ┣ 📜package-lock.json
  ┗ 📜package.json
 ```
-
-Start editing the `pages/index.jsx` file in the `frontend` directory to customize the project according to your own needs!
